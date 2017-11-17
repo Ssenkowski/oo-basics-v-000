@@ -6,8 +6,7 @@ class shoe
     @brand = brand
   end
 
-  def repair
-    puts 
+  def repair 
   end
 
 end
